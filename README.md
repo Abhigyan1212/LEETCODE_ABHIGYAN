@@ -8,6 +8,7 @@
 | [0804-unique-morse-code-words](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -60,4 +61,12 @@
 | ------- |
 | [0832-flipping-an-image](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0844-backspace-string-compare) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
