@@ -12,6 +12,7 @@
 | [0896-monotonic-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0944-delete-columns-to-make-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0844-backspace-string-compare](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0944-delete-columns-to-make-sorted) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## String Matching
 |  |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0852-peak-index-in-a-mountain-array) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
