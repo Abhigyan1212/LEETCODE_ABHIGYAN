@@ -17,6 +17,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1046-last-stone-weight](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1046-last-stone-weight) |
 ## Sorting
 |  |
 | ------- |
@@ -127,4 +128,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1025-divisor-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
