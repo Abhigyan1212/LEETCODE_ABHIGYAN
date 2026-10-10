@@ -13,6 +13,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0804-unique-morse-code-words) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0944-delete-columns-to-make-sorted) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
