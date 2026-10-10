@@ -14,11 +14,13 @@
 | [0942-di-string-match](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
 ## Sorting
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
@@ -91,4 +94,16 @@
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Math
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
