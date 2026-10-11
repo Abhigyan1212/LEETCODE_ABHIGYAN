@@ -19,6 +19,7 @@
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1051-height-checker) |
+| [1184-distance-between-bus-stops](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1184-distance-between-bus-stops) |
 ## Sorting
 |  |
 | ------- |
