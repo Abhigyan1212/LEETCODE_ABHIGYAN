@@ -20,6 +20,7 @@
 | [1046-last-stone-weight](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1051-height-checker) |
 | [1184-distance-between-bus-stops](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1184-distance-between-bus-stops) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1266-minimum-time-visiting-all-points) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1025-divisor-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1266-minimum-time-visiting-all-points) |
 ## Quicksort
 |  |
 | ------- |
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1051-height-checker) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
