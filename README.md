@@ -23,6 +23,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1266-minimum-time-visiting-all-points) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## String
 |  |
 | ------- |
