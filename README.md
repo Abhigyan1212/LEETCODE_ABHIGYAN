@@ -25,6 +25,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1550-three-consecutive-odds](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1550-three-consecutive-odds) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [1051-height-checker](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
 | ------- |
