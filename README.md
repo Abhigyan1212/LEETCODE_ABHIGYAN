@@ -24,6 +24,7 @@
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1550-three-consecutive-odds](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1550-three-consecutive-odds) |
 ## Sorting
 |  |
 | ------- |
