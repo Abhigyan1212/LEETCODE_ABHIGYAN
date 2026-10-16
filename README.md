@@ -27,6 +27,7 @@
 | [1550-three-consecutive-odds](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1550-three-consecutive-odds) |
 | [1720-decode-xored-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1816-truncate-sentence) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -143,6 +144,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1266-minimum-time-visiting-all-points) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Quicksort
 |  |
