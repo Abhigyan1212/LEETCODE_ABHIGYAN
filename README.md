@@ -142,6 +142,7 @@
 | [1025-divisor-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1025-divisor-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1266-minimum-time-visiting-all-points) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1688-count-of-matches-in-tournament) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Quicksort
 |  |
