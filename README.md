@@ -58,6 +58,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
 |  |
@@ -69,6 +70,7 @@
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
