@@ -25,6 +25,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1550-three-consecutive-odds](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1550-three-consecutive-odds) |
+| [1720-decode-xored-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1816-truncate-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0832-flipping-an-image) |
+| [1720-decode-xored-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1720-decode-xored-array) |
 ## Matrix
 |  |
 | ------- |
