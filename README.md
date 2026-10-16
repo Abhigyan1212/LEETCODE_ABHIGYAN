@@ -29,6 +29,7 @@
 | [1816-truncate-sentence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
@@ -147,6 +148,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Quicksort
 |  |
@@ -197,4 +199,16 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
