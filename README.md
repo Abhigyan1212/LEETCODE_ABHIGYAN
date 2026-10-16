@@ -20,6 +20,7 @@
 | [1046-last-stone-weight](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1051-height-checker) |
 | [1184-distance-between-bus-stops](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1184-distance-between-bus-stops) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1266-minimum-time-visiting-all-points) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -103,6 +104,7 @@
 | [0942-di-string-match](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -150,6 +152,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1025-divisor-game) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1266-minimum-time-visiting-all-points) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1716-calculate-money-in-leetcode-bank) |
