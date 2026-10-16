@@ -52,6 +52,7 @@
 | [0942-di-string-match](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0944-delete-columns-to-make-sorted) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1816-truncate-sentence) |
