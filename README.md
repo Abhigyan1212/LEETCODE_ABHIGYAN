@@ -160,6 +160,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0263-ugly-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1025-divisor-game) |
