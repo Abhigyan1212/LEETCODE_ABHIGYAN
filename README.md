@@ -143,6 +143,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Ternary Search
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0367-valid-perfect-square) |
 | [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1025-divisor-game) |
