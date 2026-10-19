@@ -144,6 +144,7 @@
 | ------- |
 | [0832-flipping-an-image](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0844-backspace-string-compare) |
+| [1103-distribute-candies-to-people](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1103-distribute-candies-to-people) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1688-count-of-matches-in-tournament) |
 ## Binary Search
 |  |
@@ -173,6 +174,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1025-divisor-game) |
+| [1103-distribute-candies-to-people](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1103-distribute-candies-to-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
