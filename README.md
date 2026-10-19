@@ -255,5 +255,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
