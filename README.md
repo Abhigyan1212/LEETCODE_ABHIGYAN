@@ -29,6 +29,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -258,4 +259,8 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1534-count-good-triplets) |
+## Prefix Sum
+|  |
+| ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
