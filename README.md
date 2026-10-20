@@ -81,6 +81,7 @@
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1768-merge-strings-alternately](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -134,6 +135,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3723-maximize-sum-of-squares-of-digits) |
