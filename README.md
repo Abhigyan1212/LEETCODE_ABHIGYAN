@@ -80,6 +80,7 @@
 | [1816-truncate-sentence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2418-sort-the-people) |
 ## String Matching
 |  |
@@ -116,6 +117,7 @@
 | [0844-backspace-string-compare](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0844-backspace-string-compare) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0844-backspace-string-compare](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0844-backspace-string-compare) |
 | [1103-distribute-candies-to-people](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1103-distribute-candies-to-people) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1688-count-of-matches-in-tournament) |
+| [2390-removing-stars-from-a-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
