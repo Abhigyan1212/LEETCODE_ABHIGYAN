@@ -23,6 +23,7 @@
 | [1046-last-stone-weight](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1051-height-checker) |
 | [1184-distance-between-bus-stops](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1184-distance-between-bus-stops) |
+| [1200-minimum-absolute-difference](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1266-minimum-time-visiting-all-points) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1313-decompress-run-length-encoded-list) |
@@ -52,6 +53,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1200-minimum-absolute-difference) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
