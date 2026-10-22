@@ -41,6 +41,7 @@
 | [1550-three-consecutive-odds](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1550-three-consecutive-odds) |
 | [1720-decode-xored-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1720-decode-xored-array) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
+| [1773-count-items-matching-a-rule](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -84,6 +85,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1768-merge-strings-alternately](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1768-merge-strings-alternately) |
+| [1773-count-items-matching-a-rule](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2000-reverse-prefix-of-word) |
