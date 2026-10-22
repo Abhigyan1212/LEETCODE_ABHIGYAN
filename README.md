@@ -46,6 +46,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2418-sort-the-people) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -63,6 +64,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2418-sort-the-people) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -173,6 +175,7 @@
 | [0367-valid-perfect-square](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Ternary Search
 |  |
 | ------- |
