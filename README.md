@@ -213,6 +213,7 @@
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1925-count-square-sum-triples](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -287,6 +288,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1534-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1925-count-square-sum-triples) |
 ## Prefix Sum
 |  |
 | ------- |
