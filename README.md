@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0004-median-of-two-sorted-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -180,6 +181,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0004-median-of-two-sorted-arrays) |
 | [0367-valid-perfect-square](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -311,4 +313,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1952-three-divisors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
