@@ -47,6 +47,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -181,6 +182,7 @@
 | [0844-backspace-string-compare](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0844-backspace-string-compare) |
 | [1103-distribute-candies-to-people](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1103-distribute-candies-to-people) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1688-count-of-matches-in-tournament) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
@@ -223,6 +225,7 @@
 | [1759-count-number-of-homogenous-substrings](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1925-count-square-sum-triples](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -326,4 +329,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0004-median-of-two-sorted-arrays) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
