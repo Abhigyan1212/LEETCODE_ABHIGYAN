@@ -91,6 +91,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1773-count-items-matching-a-rule) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -219,6 +220,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1925-count-square-sum-triples](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1925-count-square-sum-triples) |
