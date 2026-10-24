@@ -48,6 +48,7 @@
 | [1816-truncate-sentence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -69,6 +70,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -153,6 +155,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
