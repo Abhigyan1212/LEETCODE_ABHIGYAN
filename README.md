@@ -103,6 +103,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2000-reverse-prefix-of-word](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2000-reverse-prefix-of-word) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2418-sort-the-people) |
@@ -194,6 +195,7 @@
 | [0367-valid-perfect-square](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Ternary Search
 |  |
@@ -315,11 +317,13 @@
 |  |
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prime Factorization
 |  |
 | ------- |
