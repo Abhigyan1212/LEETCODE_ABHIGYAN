@@ -342,6 +342,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0206-reverse-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -351,4 +352,5 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
