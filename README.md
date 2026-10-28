@@ -215,6 +215,7 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0628-maximum-product-of-three-numbers) |
@@ -256,14 +257,17 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1025-divisor-game) |
 ## Heap (Priority Queue)
 |  |
@@ -353,4 +357,12 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0206-reverse-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
