@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0004-median-of-two-sorted-arrays) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0414-third-maximum-number](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -60,6 +61,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0922-sort-array-by-parity-ii) |
