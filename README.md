@@ -173,6 +173,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0832-flipping-an-image) |
 | [1720-decode-xored-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1720-decode-xored-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -218,6 +219,7 @@
 | [0263-ugly-number](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0628-maximum-product-of-three-numbers) |
@@ -351,6 +353,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0342-power-of-four) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
