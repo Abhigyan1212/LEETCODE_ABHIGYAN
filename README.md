@@ -81,6 +81,7 @@
 ## String
 |  |
 | ------- |
+| [0541-reverse-string-ii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0821-shortest-distance-to-a-character) |
@@ -131,6 +132,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0541-reverse-string-ii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0844-backspace-string-compare) |
