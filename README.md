@@ -8,6 +8,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0414-third-maximum-number](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0575-distribute-candies](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0804-unique-morse-code-words) |
@@ -119,6 +120,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0575-distribute-candies) |
 | [0804-unique-morse-code-words](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1189-maximum-number-of-balloons) |
