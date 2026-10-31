@@ -12,6 +12,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -85,6 +86,7 @@
 | [0541-reverse-string-ii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0917-reverse-only-letters) |
