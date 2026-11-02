@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0004-median-of-two-sorted-arrays) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0414-third-maximum-number](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0414-third-maximum-number) |
@@ -122,6 +123,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0001-two-sum) |
 | [0575-distribute-candies](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0575-distribute-candies) |
 | [0804-unique-morse-code-words](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0961-n-repeated-element-in-size-2n-array) |
