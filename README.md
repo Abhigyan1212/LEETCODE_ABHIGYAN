@@ -36,6 +36,7 @@
 | [1313-decompress-run-length-encoded-list](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -72,6 +73,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1200-minimum-absolute-difference) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -146,6 +148,7 @@
 | [0917-reverse-only-letters](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0942-di-string-match) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -210,6 +213,7 @@
 | [0367-valid-perfect-square](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Ternary Search
