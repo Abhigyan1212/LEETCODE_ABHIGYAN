@@ -87,6 +87,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0020-valid-parentheses) |
 | [0541-reverse-string-ii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0796-rotate-string) |
@@ -158,6 +159,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0844-backspace-string-compare) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -183,6 +185,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0020-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
