@@ -375,6 +375,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0342-power-of-four) |
@@ -386,6 +387,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0206-reverse-linked-list) |
 ## Minimax
