@@ -60,6 +60,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2418-sort-the-people) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
