@@ -61,6 +61,7 @@
 | [2418-sort-the-people](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2418-sort-the-people) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -354,6 +355,7 @@
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -361,6 +363,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prime Factorization
 |  |
 | ------- |
