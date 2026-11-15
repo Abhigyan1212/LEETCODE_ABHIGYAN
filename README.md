@@ -240,6 +240,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0002-add-two-numbers) |
 | [0263-ugly-number](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0326-power-of-three) |
@@ -379,6 +380,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0326-power-of-three) |
@@ -391,6 +393,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0206-reverse-linked-list) |
