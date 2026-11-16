@@ -120,6 +120,7 @@
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2000-reverse-prefix-of-word](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2000-reverse-prefix-of-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2418-sort-the-people) |
@@ -214,6 +215,7 @@
 | [1103-distribute-candies-to-people](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1103-distribute-candies-to-people) |
 | [1688-count-of-matches-in-tournament](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
