@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0414-third-maximum-number](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -148,6 +149,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0541-reverse-string-ii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0821-shortest-distance-to-a-character) |
