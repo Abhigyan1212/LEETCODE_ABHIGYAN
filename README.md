@@ -125,6 +125,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2418-sort-the-people) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## String Matching
 |  |
 | ------- |
