@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0414-third-maximum-number](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0414-third-maximum-number) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0020-valid-parentheses) |
 | [0541-reverse-string-ii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -410,4 +412,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0292-nim-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhigyan1212/LEETCODE_ABHIGYAN/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
